@@ -1,7 +1,5 @@
 ![Header](https://i.pinimg.com/originals/c5/9a/d2/c59ad2bd4ad2fbacd04017debc679ddb.gif)
 
-# Welcome to the Matrix 👾
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=36BCF7&background=FFFFFF00&width=435&lines=Hello+World!;Welcome+to+my+profile;Explore+my+repositories" alt="Typing SVG" />
 </p>
