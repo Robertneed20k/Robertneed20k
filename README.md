@@ -1,4 +1,4 @@
-![Header](https://media.giphy.com/media/26gsspf0XlygX7pBu/giphy.gif)
+![Header](https://media.giphy.com/media/3o7buirYcmV5nSwIRW/giphy.gif)
 
 # Welcome to the Matrix 👾
 
@@ -27,6 +27,12 @@
   <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
+
+## 🚀 Featured Projects
+
+- [Betang](https://github.com/Robertneed20k/betang) - Description of your project.
+- [Auto Good Morning](https://github.com/Robertneed20k/auto-goodmorning) - Description of your project.
+- [GTA V Mods Manager](https://github.com/Robertneed20k/Gta-v-mods-manager) - Description of your project.
 
 <p align="center">
   <a href="https://github.com/Robertneed20k">
